@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.one{
+    font-size: 30px;
+    color: white;
+    padding-top: 32%;
+    padding-left: 48%;
+}
